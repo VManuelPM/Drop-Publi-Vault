@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Drop con Publicidad/Formacion/02-Busqueda-de-productos/05-Validar Nichos, Productos o Problemas.md",
+                "file": "Drop con Publicidad/Formacion/03-GetHookd/02-Busqueda de Productos con GetHook.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05-Validar Nichos, Productos o Problemas"
+              "title": "02-Busqueda de Productos con GetHook"
             }
           }
         ]
@@ -46,7 +46,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -189,28 +189,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
   "active": "eefa7e0bfaa78b4f",
   "lastOpenFiles": [
+    "Drop con Publicidad/Formacion/02-Busqueda-de-productos/02-¿Qué tiene que tener un Producto Ganador?.md",
+    "Drop con Publicidad/Formacion/02-Busqueda-de-productos/01-Introduccion.md",
+    "Drop con Publicidad/Formacion/03-GetHookd/02-Busqueda de Productos con GetHook.md",
+    "Drop con Publicidad/Formacion/03-GetHookd/01-Planes y Precios.md",
     "Drop con Publicidad/Formacion/02-Busqueda-de-productos/04-Marcas.md",
+    "Drop con Publicidad/Formacion/03-GetHookd",
+    "Drop con Publicidad/Formacion/02-Busqueda-de-productos/Index.md",
     "Drop con Publicidad/Formacion/02-Busqueda-de-productos/05-Validar Nichos, Productos o Problemas.md",
     "Drop con Publicidad/Formacion/02-Busqueda-de-productos/03-Nichos.md",
-    "Drop con Publicidad/Formacion/02-Busqueda-de-productos/Untitled",
-    "Drop con Publicidad/Formacion/02-Busqueda-de-productos/02-¿Qué tiene que tener un Producto Ganador?.md",
-    "CRITERIOS PRODUCTO GANADOR ADS BY ORGANIC ECOM.pdf",
-    "Drop con Publicidad/Formacion/02-Busqueda-de-productos/01-Introduccion.md",
     "Drop con Publicidad/Formacion/01-Introduccion al curso/Bienvenida.md",
-    "Drop con Publicidad/Formacion/02-Busqueda-de-productos/Index.md",
+    "Resources/CRITERIOS PRODUCTO GANADOR ADS BY ORGANIC ECOM.pdf",
+    "Resources",
+    "Drop con Publicidad/Formacion/02-Busqueda-de-productos/Untitled",
     "Drop con Publicidad/Formacion/02-Busqueda-de-productos",
     "README.md",
     "Drop con Publicidad/Formacion/01-Introduccion al curso",
