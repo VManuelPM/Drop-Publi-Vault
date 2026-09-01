@@ -11,15 +11,14 @@
             "id": "2fb0d26402f46d78",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "Drop con Publicidad/01-Formacion/03-GetHookd/02-Busqueda de Productos con GetHook.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Index)"
+              "icon": "lucide-file",
+              "title": "02-Busqueda de Productos con GetHook"
             }
           }
         ]
@@ -203,26 +202,27 @@
   },
   "active": "2fb0d26402f46d78",
   "lastOpenFiles": [
+    "Drop con Publicidad/02-Llamadas/Llamada Agosto 31 2026.md",
+    "Drop con Publicidad/99-Templates/LLamada Mentor.md",
+    "Drop con Publicidad/99-Templates",
+    "Drop con Publicidad/02-Llamadas",
     "Resources/CRITERIOS PRODUCTO GANADOR ADS BY ORGANIC ECOM.pdf",
     "Resources",
-    "Drop con Publicidad/Formacion/03-GetHookd/02-Busqueda de Productos con GetHook.md",
-    "Drop con Publicidad/Formacion/03-GetHookd/01-Planes y Precios.md",
-    "Drop con Publicidad/Formacion/03-GetHookd",
-    "Drop con Publicidad/Formacion/02-Busqueda-de-productos/05-Validar Nichos, Productos o Problemas.md",
-    "Drop con Publicidad/Formacion/02-Busqueda-de-productos/04-Marcas.md",
-    "Drop con Publicidad/Formacion/02-Busqueda-de-productos/03-Nichos.md",
+    "Drop con Publicidad/01-Formacion/03-GetHookd/02-Busqueda de Productos con GetHook.md",
+    "Drop con Publicidad/01-Formacion/03-GetHookd/01-Planes y Precios.md",
+    "Drop con Publicidad/01-Formacion/03-GetHookd",
+    "Drop con Publicidad/01-Formacion/02-Busqueda-de-productos/05-Validar Nichos, Productos o Problemas.md",
+    "Drop con Publicidad/01-Formacion/02-Busqueda-de-productos/04-Marcas.md",
+    "Drop con Publicidad/01-Formacion/02-Busqueda-de-productos/03-Nichos.md",
     "Drop con Publicidad/Formacion/02-Busqueda-de-productos/Untitled",
-    "Drop con Publicidad/Formacion/02-Busqueda-de-productos/02-¿Qué tiene que tener un Producto Ganador?.md",
+    "Drop con Publicidad/01-Formacion/02-Busqueda-de-productos/02-¿Qué tiene que tener un Producto Ganador?.md",
     "CRITERIOS PRODUCTO GANADOR ADS BY ORGANIC ECOM.pdf",
-    "Drop con Publicidad/Formacion/02-Busqueda-de-productos/01-Introduccion.md",
-    "Drop con Publicidad/Formacion/01-Introduccion al curso/Bienvenida.md",
-    "Drop con Publicidad/Formacion/02-Busqueda-de-productos/Index.md",
-    "Drop con Publicidad/Formacion/02-Busqueda-de-productos",
+    "Drop con Publicidad/01-Formacion/02-Busqueda-de-productos/01-Introduccion.md",
+    "Drop con Publicidad/01-Formacion/01-Introduccion al curso/Bienvenida.md",
+    "Drop con Publicidad/01-Formacion/02-Busqueda-de-productos/Index.md",
+    "Drop con Publicidad/01-Formacion/02-Busqueda-de-productos",
     "README.md",
-    "Drop con Publicidad/Formacion/01-Introduccion al curso",
-    "Drop con Publicidad/Formacion",
-    "Drop con Publicidad/00-Dashboard",
-    "Drop O",
-    "Drop con Publicidad"
+    "Drop con Publicidad/01-Formacion/01-Introduccion al curso",
+    "Drop con Publicidad/01-Formacion"
   ]
 }
