@@ -87,4 +87,19 @@ En Amazon buscamos una buena review, que hable de los dolores, caracteristicas d
 - Tiene que ser limpio, sin elementos raros.
 - Lo mejor es hacerlo en Canva.
 - En canva el tamaño tiene que ser **2000x500**
+- Nunca dejar el negro 00000 dejar el 1c1c1c
+- El tipo de letra tiene que ir acompañado de lo que queremos transmitir. 
+
+## 3.3 Dominio 
+
+- Comprar un .com
+- Si no esta mejor un .store
+
+## 3.4 Paleta de Colores
+
+- Los colores tienen un impacto subconsciente en nuestra mente
+- El amarillo Marc no lo suele usar
+- El color tiene que ir acorde a mi producto
+- El fondo de la web siempre tiene que ser blanco.
+- Máximo 3 colores 
 - 
