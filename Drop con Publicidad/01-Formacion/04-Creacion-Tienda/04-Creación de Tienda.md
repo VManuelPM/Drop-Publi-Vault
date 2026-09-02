@@ -102,4 +102,25 @@ En Amazon buscamos una buena review, que hable de los dolores, caracteristicas d
 - El color tiene que ir acorde a mi producto
 - El fondo de la web siempre tiene que ser blanco.
 - Máximo 3 colores 
+- Otra manera es buscar contenido de nuestro producto y buscar marcas que vendan el producto y sacar los colores con filezilla
+
+# 3.5 Fotografías del Producto
+
+- Primero es foto de producto con Regalos
+- La foto del producto Limpia 
+- Luego infografias
+- Foto de producto siempre 1080x1080
+- Poner la caja con la que no viene el producto le podemos decir al cliente si dice algo: "Si perdona, tuvimos rotura de stock de la personalización de las cajas y tuvimos que enviar con otra caja de fabrica y en la siguiente compra le damos un 20% de descuento". Si alguien dice estafador no preocuparse, si es mucha queja de la caja quitamos esa foto.
+
+# 3.6 Miniaturas, LInea Separadora, Margen Superior/Inferior
+
+- Una vez subidas la fotos en el tema le vamos a cambiar el padding, le ponemos 0.
+- Le ponemos un poquito de espacio entre infografias si es necesario.
+- FIjarse en la copetencia, normalmente Marc las pone.
+- SI las queremos poner en Thumbnail position le ponemos siempre bottom
+- Que nunca se vea que hay un hueco.
+- Quitamos la **barra separadora del encabezado**, damos clic en el logo, y quitamos lo de mostrar barra separadora.
+- El orden de las infografías ponerlas igual que la competencia
+- Robar fotos de la competencia es rápido, pero luego puede dar problemas con Facebook y Marca.
+- Descargar extension de **Image Downloader** y Luego descargamos la extension de Video **DownloadHelper**
 - 
