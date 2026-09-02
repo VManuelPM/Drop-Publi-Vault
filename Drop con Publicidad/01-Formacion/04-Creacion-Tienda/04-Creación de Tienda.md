@@ -123,4 +123,15 @@ En Amazon buscamos una buena review, que hable de los dolores, caracteristicas d
 - El orden de las infografías ponerlas igual que la competencia
 - Robar fotos de la competencia es rápido, pero luego puede dar problemas con Facebook y Marca.
 - Descargar extension de **Image Downloader** y Luego descargamos la extension de Video **DownloadHelper**
-- 
+
+# 3.7 Reseñas encima del producto
+
+- Las reseñas van encima del nombre del producto
+- Marc recomienda un 4,8 hacia arriba
+- Marc no recomienda cambiar el color de las estrellas de la reseña
+- Marc recomienda colocar las reseñas por ejemplo: Valorado 4.8/5.0 por 21500 Dueños de Mascotas.
+- Nunca las reseñas pueden ir a dos Líneas, si es muy largo solo escribir Reseñas.
+# 3.8 Titulo del Producto
+
+- Poner el Titulo en small 
+- A veces solamente le podemos poner beneficios al titulo. Cuando es un producto que se entiende ya lo que es podemos poner el nombre de la marca y beneficios. 
