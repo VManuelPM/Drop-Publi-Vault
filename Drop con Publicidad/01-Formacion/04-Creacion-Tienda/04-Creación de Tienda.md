@@ -131,7 +131,21 @@ En Amazon buscamos una buena review, que hable de los dolores, caracteristicas d
 - Marc no recomienda cambiar el color de las estrellas de la reseña
 - Marc recomienda colocar las reseñas por ejemplo: Valorado 4.8/5.0 por 21500 Dueños de Mascotas.
 - Nunca las reseñas pueden ir a dos Líneas, si es muy largo solo escribir Reseñas.
+
 # 3.8 Titulo del Producto
 
 - Poner el Titulo en small 
 - A veces solamente le podemos poner beneficios al titulo. Cuando es un producto que se entiende ya lo que es podemos poner el nombre de la marca y beneficios. 
+
+# 3.9 Emoji Benefits
+
+- Debajo del Titulo, añadir Emoji benefits
+- Poner Top Margin 6 y Bottom Margin 6
+- Antes de colocar los emoji benefits tenemos que valorar que es lo que los clientes valoran más de este producto.
+
+# 3.10 Bundles
+
+- Casi siempre tenemos que tener bundles.
+- Si tenemos bundles quitamos el precio, porque aparece en los bundles y no se repite información.
+- Aumenta mucho la conversión colocando la opción 2 pre seleccionada. 
+- Tenemos que hacer nosotros los descuentos, eso se hace en shopify directamente, en descuentos, y le damos Descuento automático.
