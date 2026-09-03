@@ -149,3 +149,24 @@ En Amazon buscamos una buena review, que hable de los dolores, caracteristicas d
 - Si tenemos bundles quitamos el precio, porque aparece en los bundles y no se repite información.
 - Aumenta mucho la conversión colocando la opción 2 pre seleccionada. 
 - Tenemos que hacer nosotros los descuentos, eso se hace en shopify directamente, en descuentos, y le damos Descuento automático.
+- Ir jugando con los titulos de las ofertas.
+- Nunca más de 3 variantes de bundle.
+
+# 3.11 Botón de Compra
+
+- Si tenemeos activado Mostrar botones de pago dinámico, lo quitamos.
+- Nunca tener activado lo de skip cart
+- Quitar las letras en Mayuscula 
+- Tipo de carrito Lateral
+
+# 3.12 Payment Badges
+
+- Colocar los que tenemos y los más comunes.
+- Podemos pedirle a chatgpt que me de los mas usados en orden de relevancia.
+- Decirle donde voy a vender.
+- En el Car Drawer en payment Budgets, y siempre en una linea.
+
+# 3.13 Reseñas debajo del carrito
+
+- Colocar 3 reseñas.
+- Se ponen reseñas no muy largas, pero que den mucha información y sean muy rompe objeciones 
