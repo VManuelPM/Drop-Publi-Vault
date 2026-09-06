@@ -1,4 +1,16 @@
 
+```table-of-contents
+title: 
+style: nestedList # TOC style (nestedList|nestedOrderedList|inlineFirstLevel)
+minLevel: 0 # Include headings from the specified level
+maxLevel: 0 # Include headings up to the specified level
+include: 
+exclude: 
+includeLinks: true # Make headings clickable
+hideWhenEmpty: false # Hide TOC if no headings are found
+debugInConsole: false # Print debug info in Obsidian console
+```
+
 
 - Trabajamos con **Shrine Pro**, pero podemos usar **Zendrop** 
 - Shrine Pro mejora muchisimo la conversión 
@@ -90,12 +102,12 @@ En Amazon buscamos una buena review, que hable de los dolores, caracteristicas d
 - Nunca dejar el negro 00000 dejar el 1c1c1c
 - El tipo de letra tiene que ir acompañado de lo que queremos transmitir. 
 
-## 3.3 Dominio 
+## 3.3. Dominio 
 
 - Comprar un .com
 - Si no esta mejor un .store
 
-## 3.4 Paleta de Colores
+## 3.4. Paleta de Colores
 
 - Los colores tienen un impacto subconsciente en nuestra mente
 - El amarillo Marc no lo suele usar
@@ -104,7 +116,7 @@ En Amazon buscamos una buena review, que hable de los dolores, caracteristicas d
 - Máximo 3 colores 
 - Otra manera es buscar contenido de nuestro producto y buscar marcas que vendan el producto y sacar los colores con filezilla
 
-# 3.5 Fotografías del Producto
+## 3.5. Fotografías del Producto
 
 - Primero es foto de producto con Regalos
 - La foto del producto Limpia 
@@ -112,7 +124,7 @@ En Amazon buscamos una buena review, que hable de los dolores, caracteristicas d
 - Foto de producto siempre 1080x1080
 - Poner la caja con la que no viene el producto le podemos decir al cliente si dice algo: "Si perdona, tuvimos rotura de stock de la personalización de las cajas y tuvimos que enviar con otra caja de fabrica y en la siguiente compra le damos un 20% de descuento". Si alguien dice estafador no preocuparse, si es mucha queja de la caja quitamos esa foto.
 
-# 3.6 Miniaturas, LInea Separadora, Margen Superior/Inferior
+## 3.6. Miniaturas, LInea Separadora, Margen Superior/Inferior
 
 - Una vez subidas la fotos en el tema le vamos a cambiar el padding, le ponemos 0.
 - Le ponemos un poquito de espacio entre infografias si es necesario.
@@ -124,7 +136,7 @@ En Amazon buscamos una buena review, que hable de los dolores, caracteristicas d
 - Robar fotos de la competencia es rápido, pero luego puede dar problemas con Facebook y Marca.
 - Descargar extension de **Image Downloader** y Luego descargamos la extension de Video **DownloadHelper**
 
-# 3.7 Reseñas encima del producto
+## 3.7. Reseñas encima del producto
 
 - Las reseñas van encima del nombre del producto
 - Marc recomienda un 4,8 hacia arriba
@@ -132,18 +144,18 @@ En Amazon buscamos una buena review, que hable de los dolores, caracteristicas d
 - Marc recomienda colocar las reseñas por ejemplo: Valorado 4.8/5.0 por 21500 Dueños de Mascotas.
 - Nunca las reseñas pueden ir a dos Líneas, si es muy largo solo escribir Reseñas.
 
-# 3.8 Titulo del Producto
+## 3.8. Titulo del Producto
 
 - Poner el Titulo en small 
 - A veces solamente le podemos poner beneficios al titulo. Cuando es un producto que se entiende ya lo que es podemos poner el nombre de la marca y beneficios. 
 
-# 3.9 Emoji Benefits
+## 3.9. Emoji Benefits
 
 - Debajo del Titulo, añadir Emoji benefits
 - Poner Top Margin 6 y Bottom Margin 6
 - Antes de colocar los emoji benefits tenemos que valorar que es lo que los clientes valoran más de este producto.
 
-# 3.10 Bundles
+## 3.10. Bundles
 
 - Casi siempre tenemos que tener bundles.
 - Si tenemos bundles quitamos el precio, porque aparece en los bundles y no se repite información.
@@ -152,21 +164,105 @@ En Amazon buscamos una buena review, que hable de los dolores, caracteristicas d
 - Ir jugando con los titulos de las ofertas.
 - Nunca más de 3 variantes de bundle.
 
-# 3.11 Botón de Compra
+## 3.11. Botón de Compra
 
 - Si tenemeos activado Mostrar botones de pago dinámico, lo quitamos.
 - Nunca tener activado lo de skip cart
 - Quitar las letras en Mayuscula 
 - Tipo de carrito Lateral
 
-# 3.12 Payment Badges
+## 3.12. Payment Badges
 
 - Colocar los que tenemos y los más comunes.
 - Podemos pedirle a chatgpt que me de los mas usados en orden de relevancia.
 - Decirle donde voy a vender.
 - En el Car Drawer en payment Budgets, y siempre en una linea.
 
-# 3.13 Reseñas debajo del carrito
+## 3.13. Reseñas debajo del carrito
 
 - Colocar 3 reseñas.
 - Se ponen reseñas no muy largas, pero que den mucha información y sean muy rompe objeciones 
+
+## 3.14. Filas Desplegables
+
+- Normalmente se ponen 3 
+- Se pone que viene en el paquete, envio y garantía
+
+## 3.15. Orden Descripción / Bloques
+
+- Despues de los desplegables se pone un **Image Video Slider**
+- Despues se ponen las **FAQ**
+- Despues viene Banner de Imagen sin botones
+
+## 3.17.   Descripciones
+
+- Descripción **PAS** (Problema - Agitación - Solución) 
+- El ser humano es egoista por naturaleza
+- Descripción Tipo **BF/EL** (Benefico,fu
+
+## 3.18. Image Video Slider
+
+- MUte dejaaro en Mute
+- Tener todo desactivado
+- Y siempre desde canva sin sonido
+
+## 3.19. FAQs
+
+- Donde pone el titulo le ponemos Preguntas Frecuentes y debe quedar en una sola linea con small
+- Las FAQ siempre atacan objeciones del producto
+
+## 3.20. Descripción e Infografias
+
+- Colocamos Texto enriquecido o Imagen con Texto
+- Marc usa mas  Texto enriquecido y usa Titulo Texto Imagen
+- Tiene que ocupar dos Lineas 
+- Quitar el top Padding y el bottom padding un poquito
+
+## 3.21. Horizontal Ticker
+
+- Meterle mas  botton padding y relleno superior
+- Lo ideal es meterle una imagen con marcas en Canva, lo creamos del mismo tamaño del logo 
+- el tamaño dejarlo en 40 
+- Si no queremos poner marcas, ponemos reseñas
+- Ponemos el bloque testimonials en dado caso, y colocamos reseñas de calidad, pondria las 3.
+- El titulo le pondria "Lo que opinan nuestro clientes"
+- Quitar relleno superior 
+
+## 3.22. Continuamos con otra Infografía
+
+- Continuar con Infografia de Solución 
+
+## 3.23. Gif y Botón de Compra o Before and After
+
+- Hay un elemento de Before and After Slider
+
+## 3.24. Garantía y Tabla de comparación
+
+- Colocar un Banner de imagen 
+- Colocar normalmente 30/60 días de Garantía de Reembolso
+- En Botones le podemos poner un Comprar ahora
+
+## 3.25. Powered by Shrine , Pantalla de Pago y Contacto
+
+- Quitar eso, esta en pie de pagina.
+- El Sticky add to Cart es esencial
+- Ir a la pantalla de Pago y personalizar y colocar el Logo y SIEMPRE centrado
+- En Páginas le podemos crear una página de contacto y le ponemos Contacta con nosotros.
+- En Privacidad de Cliente activar el banner de cookies y lo podemos personalizar
+
+## 3.26 Poner Track123
+
+- Quitamos todo del menu y dejamos el contacto y el rastrea tu pedido.
+
+## 3.27 Número de telefono obligatorio
+
+- Vamos a configuracion -> Pantalla de Pago -> Información del cliente -> Número de teléfono de la dirección de envio -> Obligatorio
+
+## 3.28 Reseñas
+
+- Tenemos que poner almenos 15 reseñas Buenas que ataquen objeciones de compra.
+- Con el script que tenemos de que le importa a la gente se le resuelven las objeciones en las reseñas.
+- NUNCA ponemos reseñas sin foto
+- NUNCA ponemos reseñas mala
+- NUNCA ponemos de todo bien, envio rapido etc.
+

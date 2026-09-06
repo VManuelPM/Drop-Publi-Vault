@@ -1,0 +1,2 @@
+- Si shopify payments no esta disponible en nuestro país es recomendable abrir una LLC.
+- Otra razón es para la parte fiscal.

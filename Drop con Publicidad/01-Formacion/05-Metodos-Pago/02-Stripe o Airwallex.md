@@ -1,0 +1,1 @@
+- Si tenemos empresa podemos abrir Stripe o Airwallex
