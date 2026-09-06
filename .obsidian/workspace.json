@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Drop con Publicidad/01-Formacion/14-Previo-Creacion-Ads/02-Importante.md",
+                "file": "Drop con Publicidad/01-Formacion/15-Creacion-anuncio/02-¿Que necesitamos?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02-Importante"
+              "title": "02-¿Que necesitamos?"
             }
           }
         ]
@@ -202,10 +202,14 @@
   },
   "active": "910f6a6d75fa9864",
   "lastOpenFiles": [
-    "Zona segura formato post.jpeg",
-    "Zona segura formato vertical.jpeg",
-    "Resources/Pasted image 20260906182333.png",
+    "Drop con Publicidad/01-Formacion/15-Creacion-anuncio/01-Introducción.md",
+    "Drop con Publicidad/01-Formacion/15-Creacion-anuncio/02-¿Que necesitamos?.md",
+    "Resources/Zona segura formato vertical.jpeg",
+    "Resources/Zona segura formato post.jpeg",
+    "Resources/Pasted image 20260907001128.png",
     "Drop con Publicidad/01-Formacion/14-Previo-Creacion-Ads/02-Importante.md",
+    "Drop con Publicidad/01-Formacion/15-Creacion-anuncio",
+    "Resources/Pasted image 20260906182333.png",
     "Drop con Publicidad/01-Formacion/14-Previo-Creacion-Ads/01-Efecto Tunnel.md",
     "Drop con Publicidad/01-Formacion/13-Aumentar AOV y PROFIT/01-Priority - Protection Shipping.md",
     "Drop con Publicidad/01-Formacion/14-Previo-Creacion-Ads",
@@ -230,7 +234,6 @@
     "Drop con Publicidad/01-Formacion/07-Ofertas",
     "Drop con Publicidad/01-Formacion/06-Proveedores/01-Proveedores que usamos.md",
     "Drop con Publicidad/01-Formacion/05-Metodos-Pago/04-LLC.md",
-    "Drop con Publicidad/01-Formacion/06-Proveedores",
     "Drop con Publicidad/01-Formacion/05-Metodos-Pago/03-Paypal.md",
     "Drop con Publicidad/01-Formacion/05-Metodos-Pago/02-Stripe o Airwallex.md",
     "Drop con Publicidad/01-Formacion/05-Metodos-Pago/01-Shopify Payments.md",
@@ -243,7 +246,6 @@
     "Drop con Publicidad/01-Formacion/03-GetHookd/02-Busqueda de Productos con GetHook.md",
     "Drop con Publicidad/01-Formacion/04-Creacion-Tienda/03-Crear Nombre de Marca y Correo.md",
     "Drop con Publicidad/01-Formacion/04-Creacion-Tienda/02-Tiendas de Ejemplo.md",
-    "Drop con Publicidad/01-Formacion/04-Creacion-Tienda/01-Introducción.md",
-    "Drop con Publicidad/02-Llamadas/Llamada Agosto 31 2026.md"
+    "Drop con Publicidad/01-Formacion/04-Creacion-Tienda/01-Introducción.md"
   ]
 }
