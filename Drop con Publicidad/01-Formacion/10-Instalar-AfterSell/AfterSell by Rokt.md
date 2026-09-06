@@ -50,7 +50,3 @@ debugInConsole: false # Print debug info in Obsidian console
 - En Declined es normal que sea entre un 10% o 15%
 - Si tenemos mas de un 15% es que esta barato y toca subir el precio
 - si funcioan bien lo podemos probar como producto principal.
-
-# Post Purchase como Ganador
-
-- 
