@@ -20,8 +20,23 @@
               "icon": "diff",
               "title": "Diff: workspace.json  (Working Tree)"
             }
+          },
+          {
+            "id": "380d431bc005fe7c",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,8 +215,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6a491e7b2472e448",
+  "active": "380d431bc005fe7c",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Drop con Publicidad/02-Llamadas/LLamada Septiembre 8 2026.md",
     "Drop con Publicidad/01-Formacion/15-Creacion-anuncio/09-Módulo de Nika.md",
     "Drop con Publicidad/02-Llamadas/LLamada Septiembre 7 2026.md",
@@ -242,7 +258,6 @@
     "Drop con Publicidad/01-Formacion/07-Ofertas",
     "Drop con Publicidad/01-Formacion/06-Proveedores/01-Proveedores que usamos.md",
     "Drop con Publicidad/01-Formacion/05-Metodos-Pago/04-LLC.md",
-    "Drop con Publicidad/01-Formacion/05-Metodos-Pago/03-Paypal.md",
     "Resources/Pasted image 20260901185315.png",
     "Resources/Pasted image 20260901184700.png",
     "Pasted image 20260901185315.png",
