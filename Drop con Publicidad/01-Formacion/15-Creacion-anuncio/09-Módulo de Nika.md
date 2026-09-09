@@ -45,7 +45,13 @@ Luego se pega en una Hoja de Excel el script
 
 # PASO 6 Efectos de Sonido
 
-- 
 
+# PASO 7 Texto Ad 1
+
+- Poner subtitulos automaticos
+- El texto se pone justo cuando acaba el clip
+
+- El texto con fondo negro se lee peor
+ 
 
 
