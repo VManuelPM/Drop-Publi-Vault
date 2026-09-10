@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "dc465e66f80f5b9d",
+        "id": "ae2b7a91c4032b8b",
         "type": "tabs",
         "children": [
           {
-            "id": "8656d2e1f503537c",
+            "id": "704ebbaa3f666569",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Drop con Publicidad/02-Llamadas/LLamada Septiembre 8 2026.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
-            }
-          },
-          {
-            "id": "380d431bc005fe7c",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "LLamada Septiembre 8 2026"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,13 +200,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "380d431bc005fe7c",
+  "active": "704ebbaa3f666569",
   "lastOpenFiles": [
+    "Drop con Publicidad/02-Llamadas/Llamada Agosto 31 2026.md",
+    "Drop con Publicidad/01-Formacion/16-Creativos-Ganchos-IA/02-APIMART.md",
+    "Drop con Publicidad/01-Formacion/16-Creativos-Ganchos-IA/01-Como Crear Ganchos con IA.md",
+    "Drop con Publicidad/01-Formacion/16-Creativos-Ganchos-IA/02",
     "conflict-files-obsidian-git.md",
     "Drop con Publicidad/02-Llamadas/LLamada Septiembre 8 2026.md",
     "Drop con Publicidad/01-Formacion/15-Creacion-anuncio/09-Módulo de Nika.md",
     "Drop con Publicidad/02-Llamadas/LLamada Septiembre 7 2026.md",
-    "Drop con Publicidad/02-Llamadas/Llamada Agosto 31 2026.md",
     "Drop con Publicidad/02-Llamadas/Llamada Septiembre 1 2026.md",
     "Drop con Publicidad/01-Formacion/15-Creacion-anuncio/05-Apuntar Clip x Clip la Imagen.md",
     "Drop con Publicidad/01-Formacion/15-Creacion-anuncio/02-¿Que necesitamos?.md",
@@ -255,9 +243,6 @@
     "Drop con Publicidad/01-Formacion/07-Ofertas/02-Tipos de Ofertas.md",
     "Drop con Publicidad/01-Formacion/08-Urgencia",
     "Drop con Publicidad/01-Formacion/07-Ofertas/01-¿Qué son las ofertas?.md",
-    "Drop con Publicidad/01-Formacion/07-Ofertas",
-    "Drop con Publicidad/01-Formacion/06-Proveedores/01-Proveedores que usamos.md",
-    "Drop con Publicidad/01-Formacion/05-Metodos-Pago/04-LLC.md",
     "Resources/Pasted image 20260901185315.png",
     "Resources/Pasted image 20260901184700.png",
     "Pasted image 20260901185315.png",

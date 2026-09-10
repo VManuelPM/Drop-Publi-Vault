@@ -4,3 +4,7 @@
 Usar este documento donde esta el prompt 
 
 https://docs.google.com/document/d/1_m6Gf3Srlv97NK7NfPXYGHVvWxor-69uxTeBpgVJIuQ/edit?tab=t.0
+
+
+Usar el GPT para generar fotos con IA
+
