@@ -4,39 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "dc465e66f80f5b9d",
+        "id": "3b4d71e10c2b9c5d",
         "type": "tabs",
         "children": [
           {
-            "id": "8656d2e1f503537c",
+            "id": "eefa7e0bfaa78b4f",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Drop con Publicidad/01-Formacion/19-Aprender a ver donde fallamos/Donde estamos fallando.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Donde estamos fallando"
             }
           },
           {
-            "id": "380d431bc005fe7c",
+            "id": "2a97d7dd927c591b",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "excalidraw",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Drop con Publicidad/01-Formacion/15-Creacion-anuncio/03-Estructura Anuncio.md"
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "excalidraw-icon",
+              "title": "03-Estructura Anuncio"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +58,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -204,63 +201,61 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "380d431bc005fe7c",
+  "active": "eefa7e0bfaa78b4f",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Drop con Publicidad/01-Formacion/18-Campañas-Metricas/02-Revisión de Métricas.md",
+    "Drop con Publicidad/01-Formacion/19-Aprender a ver donde fallamos/Donde estamos fallando.md",
+    "Drop con Publicidad/01-Formacion/19-Aprender a ver donde fallamos",
+    "Drop con Publicidad/01-Formacion/18-Campañas-Metricas/01-Terminología.md",
+    "Drop con Publicidad/01-Formacion/17-Diccionario-Meta-Ads/Conceptos.md",
+    "Drop con Publicidad/01-Formacion/18-Campañas-Metricas",
+    "Drop con Publicidad/01-Formacion/16-Creativos-Ganchos-IA/01-Como Crear Ganchos con IA.md",
+    "Drop con Publicidad/01-Formacion/17-Diccionario-Meta-Ads",
     "Drop con Publicidad/02-Llamadas/LLamada Septiembre 8 2026.md",
     "Drop con Publicidad/01-Formacion/15-Creacion-anuncio/09-Módulo de Nika.md",
-    "Drop con Publicidad/02-Llamadas/LLamada Septiembre 7 2026.md",
-    "Drop con Publicidad/02-Llamadas/Llamada Agosto 31 2026.md",
-    "Drop con Publicidad/02-Llamadas/Llamada Septiembre 1 2026.md",
+    "Drop con Publicidad/01-Formacion/16-Creativos-Ganchos-IA",
+    "Drop con Publicidad/01-Formacion/15-Creacion-anuncio/08-Sonidos.md",
+    "Drop con Publicidad/01-Formacion/15-Creacion-anuncio/07-Movimiento con Zooms, Transiciones, etc.md",
+    "Drop con Publicidad/01-Formacion/15-Creacion-anuncio/Sin nombre",
+    "Drop con Publicidad/01-Formacion/15-Creacion-anuncio/06-Script con Voz y subtitulos.md",
     "Drop con Publicidad/01-Formacion/15-Creacion-anuncio/05-Apuntar Clip x Clip la Imagen.md",
-    "Drop con Publicidad/01-Formacion/15-Creacion-anuncio/02-¿Que necesitamos?.md",
+    "Drop con Publicidad/02-Llamadas/LLamada Septiembre 7 2026.md",
     "Drop con Publicidad/01-Formacion/15-Creacion-anuncio/04-Profundizando Estructura de Anuncio.md",
     "Drop con Publicidad/01-Formacion/15-Creacion-anuncio/03-Estructura Anuncio.md",
-    "Drop con Publicidad/01-Formacion/15-Creacion-anuncio/01-Introducción.md",
+    "Excalidraw",
+    "Drop con Publicidad/01-Formacion/15-Creacion-anuncio/02-¿Que necesitamos?.md",
     "Resources/Zona segura formato vertical.jpeg",
     "Resources/Zona segura formato post.jpeg",
     "Resources/Pasted image 20260907001128.png",
-    "Drop con Publicidad/01-Formacion/14-Previo-Creacion-Ads/02-Importante.md",
-    "Drop con Publicidad/01-Formacion/15-Creacion-anuncio",
     "Resources/Pasted image 20260906182333.png",
+    "Resources/Pasted image 20260905135224.png",
+    "Resources/BONUS 5 - Mini Guía Crear y Vender Infoproductos - Organic Ecom.pdf",
+    "Drop con Publicidad/01-Formacion/15-Creacion-anuncio/01-Introducción.md",
+    "Drop con Publicidad/01-Formacion/15-Creacion-anuncio",
+    "Drop con Publicidad/01-Formacion/14-Previo-Creacion-Ads/02-Importante.md",
     "Drop con Publicidad/01-Formacion/14-Previo-Creacion-Ads/01-Efecto Tunnel.md",
-    "Drop con Publicidad/01-Formacion/13-Aumentar AOV y PROFIT/01-Priority - Protection Shipping.md",
     "Drop con Publicidad/01-Formacion/14-Previo-Creacion-Ads",
+    "Drop con Publicidad/01-Formacion/13-Aumentar AOV y PROFIT/01-Priority - Protection Shipping.md",
     "Drop con Publicidad/01-Formacion/13-Aumentar AOV y PROFIT",
     "Drop con Publicidad/01-Formacion/12-Escalado-A-B-Testing/04-Testeos.md",
     "Drop con Publicidad/01-Formacion/12-Escalado-A-B-Testing/03-¿Cuándo Empezamos a hacer A-B Test?.md",
     "Drop con Publicidad/01-Formacion/12-Escalado-A-B-Testing/02-¿Cómo aumento el AOV? A-B Test.md",
     "Drop con Publicidad/01-Formacion/12-Escalado-A-B-Testing/01-¿Qué es el AOV? (Average Order Value).md",
     "Drop con Publicidad/01-Formacion/11-Regalos-Pagina/01-La oferta lo es TODO.md",
-    "Drop con Publicidad/01-Formacion/12-Escalado-A-B-Testing",
     "Drop con Publicidad/01-Formacion/10-Instalar-AfterSell/AfterSell by Rokt.md",
-    "Drop con Publicidad/01-Formacion/11-Regalos-Pagina",
     "Drop con Publicidad/01-Formacion/09-Upsells-Postpurchases/01- Upsell Y PostPurchases.md",
-    "Drop con Publicidad/01-Formacion/10-Instalar-AfterSell",
-    "Resources/BONUS 5 - Mini Guía Crear y Vender Infoproductos - Organic Ecom.pdf",
-    "Drop con Publicidad/01-Formacion/08-Urgencia/08-Urgencia.md",
-    "Drop con Publicidad/01-Formacion/09-Upsells-Postpurchases",
-    "Resources/Pasted image 20260905135224.png",
-    "Drop con Publicidad/01-Formacion/07-Ofertas/02-Tipos de Ofertas.md",
-    "Drop con Publicidad/01-Formacion/08-Urgencia",
-    "Drop con Publicidad/01-Formacion/07-Ofertas/01-¿Qué son las ofertas?.md",
-    "Drop con Publicidad/01-Formacion/07-Ofertas",
-    "Drop con Publicidad/01-Formacion/06-Proveedores/01-Proveedores que usamos.md",
-    "Drop con Publicidad/01-Formacion/05-Metodos-Pago/04-LLC.md",
-    "Resources/Pasted image 20260901185315.png",
     "Resources/Pasted image 20260901184700.png",
-    "Pasted image 20260901185315.png",
-    "Pasted image 20260901184700.png"
+    "Resources/Pasted image 20260901185315.png"
   ]
 }
