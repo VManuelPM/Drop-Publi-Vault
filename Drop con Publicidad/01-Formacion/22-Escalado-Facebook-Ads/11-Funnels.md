@@ -7,4 +7,8 @@ Ad -> PDP -> CK -> TY
 
 # Funnel en Esteroides
 
-AD -> ADV/List/QF -> PDP -> CK 
+AD -> 
+ADV/List/QF (Prelander) -> El objetivo de las prelanders es calentar el trafico
+PDP -> 
+CK -> 
+Post Purchase 
