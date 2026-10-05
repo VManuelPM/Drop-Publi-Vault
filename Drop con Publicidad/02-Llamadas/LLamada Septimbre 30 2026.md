@@ -10,8 +10,6 @@ tags:
 ---
 
 
-# Llamada Mentor — 30-09-2026
-
 ```table-of-contents
 title: 
 style: nestedList # TOC style (nestedList|nestedOrderedList|inlineFirstLevel)
