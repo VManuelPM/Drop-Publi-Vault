@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "1. Elementos del Video"
             }
+          },
+          {
+            "id": "0dba1ff3c2915a83",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git  (Working Tree)"
+            }
+          },
+          {
+            "id": "c702f044746cb059",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git  (Working Tree)"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -200,53 +229,53 @@
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "7ced6075ef860c24",
+  "active": "6a491e7b2472e448",
   "lastOpenFiles": [
-    "Sin título.md",
+    "conflict-files-obsidian-git.md",
     "Curso de retención/1. Elementos del Video.md",
-    "Resources/Pasted image 20261030133131.png",
-    "Resources/Pasted image 20261030132953.png",
-    "Resources/Pasted image 20261030132503.png",
-    "Drop con Publicidad/01-Formacion/22-Escalado-Facebook-Ads/12- Branded Dropshipping.md",
+    "Resources/Pasted image 20261014190448.png",
+    "Resources/Pasted image 20261014190000.png",
+    "Resources/Pasted image 20261014185812.png",
+    "Resources/Pasted image 20261014184650.png",
+    "Resources/Pasted image 20261014183913.png",
+    "Resources/Pasted image 20261014183351.png",
+    "Resources/Pasted image 20261014182905.png",
+    "Resources/Pasted image 20261012190240.png",
+    "Resources/Pasted image 20261012184650.png",
+    "Resources/Pasted image 20261012184621.png",
+    "PROMPT ANÁLISIS DE COMPETENCIA CON TRENDTRACK.docx",
+    "Drop con Publicidad/02-Llamadas/Llamadas Septiembre 2026/Llamada Septiembre 8 2026 JuanMa.md",
+    "Drop con Publicidad/02-Llamadas/Llamadas Septiembre 2026/Llamada Septiembre 23 2026.md",
+    "Drop con Publicidad/02-Llamadas/Llamadas Septiembre 2026/Llamada Septiembre 21 2026.md",
+    "Drop con Publicidad/02-Llamadas/Llamadas Septiembre 2026/Llamada Septiembre 15 2026.md",
+    "Drop con Publicidad/02-Llamadas/Llamadas Septiembre 2026/LLamada Septiembre 14 2026.md",
+    "Drop con Publicidad/02-Llamadas/Llamadas Septiembre 2026/Llamada Septiembre 11 2026.md",
+    "Drop con Publicidad/02-Llamadas/Llamadas Septiembre 2026/Llamada Septiembre 1 2026.md",
+    "Drop con Publicidad/02-Llamadas/Llamadas Septiembre 2026/LLamada Septimbre 30 2026.md",
+    "Drop con Publicidad/02-Llamadas/Llamadas Septiembre 2026/LLamada Septiembre 8 2026.md",
+    "Drop con Publicidad/02-Llamadas/Llamadas Septiembre 2026/LLamada Septiembre 7 2026.md",
+    "Drop con Publicidad/02-Llamadas/Llamadas Septiembre 2026/LLamada Septiembre 29 2026.md",
+    "Drop con Publicidad/02-Llamadas/Llamadas Septiembre 2026/LLamada Septiembre 22 2026.md",
+    "Drop con Publicidad/02-Llamadas/Llamadas Septiembre 2026",
+    "Drop con Publicidad/02-Llamadas/Llamadas IMPORTANTES/LLamada Seedance Importante.md",
+    "Drop con Publicidad/02-Llamadas/Llamadas IMPORTANTES/LLamada JuanMa Importante.md",
+    "Drop con Publicidad/02-Llamadas/Llamadas IMPORTANTES/LLamada 29 De Octubre 2026 Editor de Video.md",
+    "Drop con Publicidad/02-Llamadas/Llamadas IMPORTANTES",
+    "Drop con Publicidad/02-Llamadas/Llamadas Agosto 2026/Llamada Agosto 31 2026.md",
+    "Drop con Publicidad/02-Llamadas/Llamadas Agosto 2026",
+    "Drop con Publicidad/02-Llamadas/LLamadas Octubre 2026/Llamada Octubre 9 2026.md",
+    "Drop con Publicidad/02-Llamadas/LLamadas Octubre 2026/Llamada Octubre 27 2026.md",
+    "Drop con Publicidad/02-Llamadas/LLamadas Octubre 2026/Llamada Octubre 20 2026.md",
+    "Drop con Publicidad/02-Llamadas/LLamadas Octubre 2026/Llamada Octubre 2 2026.md",
+    "Drop con Publicidad/02-Llamadas/LLamadas Octubre 2026/Llamada Octubre 19 2026.md",
+    "Drop con Publicidad/02-Llamadas/LLamadas Octubre 2026/Llamada Octubre 14 2026.md",
+    "Drop con Publicidad/02-Llamadas/LLamadas Octubre 2026/LLamada Ocubre 28 2026.md",
+    "Drop con Publicidad/02-Llamadas/LLamadas Octubre 2026/Llamada OCtubre 26 2026.md",
+    "Drop con Publicidad/02-Llamadas/LLamadas Octubre 2026",
     "Curso de retención",
     "Resources/El Plan del Q4 2026 - Javi.pdf",
-    "Resources/Pasted image 20260929191007.png",
-    "Drop con Publicidad/02-Llamadas/Llamada Septiembre 23 2026.md",
-    "Drop con Publicidad/02-Llamadas/Llamada Septiembre 21 2026.md",
-    "Drop con Publicidad/02-Llamadas/Llamada Septiembre 15 2026.md",
-    "Drop con Publicidad/02-Llamadas/Llamada Octubre 2 2026.md",
-    "Drop con Publicidad/02-Llamadas/LLamada Septimbre 30 2026.md",
-    "Drop con Publicidad/02-Llamadas/LLamada Septiembre 29 2026.md",
-    "Drop con Publicidad/02-Llamadas/LLamada Septiembre 22 2026.md",
-    "Drop con Publicidad/02-Llamadas/LLamada Octubre 5 2026.md",
-    "Drop con Publicidad/02-Llamadas/LLamada JuanMa Importante.md",
-    "Drop con Publicidad/01-Formacion/25-Native-Ads/Natives Ads.md",
     "Drop con Publicidad/01-Formacion/25-Native-Ads",
-    "Drop con Publicidad/01-Formacion/24-Anuncios-Retargetting/Anuncios de Retargeting.md",
     "Drop con Publicidad/01-Formacion/24-Anuncios-Retargetting",
-    "Drop con Publicidad/01-Formacion/23-Productividad/Productividad.md",
-    "Drop con Publicidad/01-Formacion/22-Escalado-Facebook-Ads/11-Funnels.md",
-    "Drop con Publicidad/01-Formacion/23-Productividad",
-    "Drop con Publicidad/02-Llamadas/LLamada Septiembre 14 2026.md",
-    "Drop con Publicidad/01-Formacion/22-Escalado-Facebook-Ads/10-Niveles de Consciencia o Awareness.md",
-    "Drop con Publicidad/01-Formacion/10-Instalar-AfterSell/AfterSell by Rokt.md",
-    "Drop con Publicidad/01-Formacion/09-Upsells-Postpurchases/01- Upsell Y PostPurchases.md",
-    "Drop con Publicidad/01-Formacion/04-Creacion-Tienda/04-Creación de Tienda.md",
-    "Drop con Publicidad/02-Llamadas/LLamada Seedance Importante.md",
-    "Drop con Publicidad/02-Llamadas/Llamada Septiembre 8 2026 JuanMa.md",
-    "Drop con Publicidad/02-Llamadas/Llamada Septiembre 11 2026.md",
-    "Drop con Publicidad/01-Formacion/15-Creacion-anuncio/03-Estructura Anuncio.md",
-    "Resources/Pasted Image 20260912200431_056.png",
-    "Drop con Publicidad/01-Formacion/22-Escalado-Facebook-Ads/09-Tipos de Campañas.md",
-    "Resources/Pasted Image 20260912201834_717.png",
-    "Resources/Pasted Image 20260912201620_729.png",
-    "Resources/Pasted Image 20260912201528_508.png",
-    "Resources/Pasted Image 20260912201411_936.png",
-    "Resources/Pasted Image 20260912201153_561.png",
-    "Drop con Publicidad/01-Formacion/22-Escalado-Facebook-Ads",
-    "Drop con Publicidad/01-Formacion/21-Variaciones-en-videos",
-    "Drop con Publicidad/01-Formacion/20-Antes-de-escalar",
-    "Drop con Publicidad/01-Formacion/19-Aprender a ver donde fallamos",
-    "Drop con Publicidad/01-Formacion/18-Campañas-Metricas"
+    "Drop con Publicidad/01-Formacion/23-Productividad"
   ]
 }

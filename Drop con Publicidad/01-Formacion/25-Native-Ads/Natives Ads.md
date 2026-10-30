@@ -40,7 +40,9 @@ debugInConsole: false # Print debug info in Obsidian console
 
 - https://docs.google.com/document/d/1kL_Na__iEW0ppB7qL4mmkkIxMH9rSxtCzfdb7e2334w/edit?tab=t.i9z1c252k6lc
 
+# Generar el Script de nuestro anuncio
 
+-  Siempre leer los deep research para conocer a nuestro cliente ideal. 
 
 
 
